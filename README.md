@@ -1,7 +1,7 @@
  # Hi, I'm Nitin Kumar 👋
 
 **Fullstack Developer | JavaScript Enthusiast | Freelancer**  
-Currently based in **Delhi, India** | Originally from **India**
+Currently based in **Mumbai, India** | Originally from **India**
 
 ---
 
